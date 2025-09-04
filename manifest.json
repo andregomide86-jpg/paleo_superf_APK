@@ -1,0 +1,16 @@
+{
+  "name": "Ficha de Paleontologia",
+  "short_name": "Ficha Paleo",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "description": "Ficha para coleta de dados paleontológicos em campo.",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
